@@ -1,5 +1,11 @@
 __pycache__/
 *.pyc
+*.pyo
+*.so
 .env
+.venv
+venv/
 *.mp4
 *.tmp
+.DS_Store
+*.log
